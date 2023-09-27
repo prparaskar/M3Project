@@ -1,0 +1,4 @@
+tesseract-ocr.exe open source engine
+pip install pytesseract
+pip install opencv-python
+pytesseract.pytesseract.tesseract_cmd=r'<path for tesseract.exe>'
